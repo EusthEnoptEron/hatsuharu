@@ -1,0 +1,76 @@
+p {
+	text-indent: 1em;
+	font-size: 1.3em;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+	/*overflow-x: hidden;*/
+}
+
+#cover-box {
+	position: absolute;
+	left: 0;
+	background: #1d1d1d;
+	width: 100%;
+	padding: 20px 0;
+	box-sizing: border-box;
+	box-shadow: inset 0 50px 30px -50px black, inset 0 -50px 30px -50px black;
+	text-align: center;
+
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img#cover {
+    flex: 0 0 auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#cutoff {
+	overflow-x: hidden;
+}
+
+#cover-shadow {
+	width: 99vw;
+	max-height: 100vh;
+	object-fit: contain;
+	max-width: none;
+	visibility: hidden;
+}
+
+#spacer {
+	height: calc(100vw * 0.7 + 1em);
+}
+
+
+img.insert {
+	width: 65%;
+	box-shadow: 0px 0px 30px -10px black;
+	display: block;
+	margin: 2em auto;
+	transition: width 0.2s;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+img.insert:focus {
+	width: 100%;
+}
+
+aside.right {
+	float: right;
+	width: 80%;
+	margin: 2em;
+	margin-right: -50%;
+}
+
+aside.left {
+	float: left;
+	width: 80%;
+	margin: 2em;
+	border-radius: 2em;
+	margin-left: -50%;
+}
