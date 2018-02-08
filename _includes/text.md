@@ -248,7 +248,7 @@ Sitting down straight, I take a few deep breaths. Breathe in! Breathe out!
 
 I proceed to taking my loot out of the large nylon bag I carried them in. First there is the head-mounted computer that is used to run the Bulk Girlfriend software and resembles a helmet, then there's the case with the Hatsuharu Rei chip inside. Just lining them up makes my heart beat faster.
 
-They charge you 3800 yen a week for renting a Bulk Girlfriend. It's a steep price for a high school student, but I regret nothing. (By the way, I couldn't rent *Degraded into the Plaything of my Four Hot Classmates* because of the age rating. To make things worse, it was actually a college girl who processed my order. Seeing the expression on her face gave me a yet another trauma.)
+They charge you 3800 yen a week for renting a Bulk Girlfriend. It's a steep price for a high school student, but I regret nothing. (By the way, I couldn't rent *Degraded into the Plaything of my Four Hot Classmates* because of the age rating. To make things worse, it was actually a college girl who processed my order. Seeing the look on her face gave me a yet another trauma.)
 
 You can rent any of the Bulk Girlfriends only once. They say that it's to give the love simulation some extra realism. That's also why you cannot buy them.
 
