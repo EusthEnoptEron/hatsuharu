@@ -1,0 +1,10 @@
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.header_pages | default: default_paths %}
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+      <span>B</span><span>u</span><span>l</span><span>k</span> <span>G</span><span>i</span><span>r</span><span>l</span><span>f</span><span>r</span><span>i</span><span>e</span><span>n</span><span>d</span><span>,</span> <span>H</span><span>a</span><span>t</span><span>s</span><span>u</span><span>h</span><span>a</span><span>r</span><span>u</span> <span>R</span><span>e</span><span>i</span>
+    </a>
+  </div>
+</header>

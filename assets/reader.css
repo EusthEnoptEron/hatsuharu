@@ -8,43 +8,48 @@ body {
 	/*overflow-x: hidden;*/
 }
 
-#cover-box {
-	position: absolute;
-	left: 0;
+.site-header {
+	height: 100vh;
 	background: #1d1d1d;
-	width: 100%;
 	padding: 20px 0;
 	box-sizing: border-box;
-	box-shadow: inset 0 50px 30px -50px black, inset 0 -50px 30px -50px black;
+	box-shadow: inset 0 55px 30px -50px black, inset 0 -55px 30px -50px black;
+	background-image: url(images/cover.jpg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
 	text-align: center;
-
-	display: flex;
-    justify-content: center;
-    align-items: center;
+	position: relative;
 }
 
-img#cover {
-    flex: 0 0 auto;
-    max-width: 100%;
-    max-height: 100%;
+.site-header .wrapper {
+	position: absolute;
+	bottom: 1em;
+ 	left: 50%;
+    transform: translateX(-50%); 
 }
 
-#cutoff {
-	overflow-x: hidden;
+.site-header .wrapper a {
+	font-style: normal;
+	text-decoration: none;
 }
 
-#cover-shadow {
-	width: 99vw;
-	max-height: 100vh;
-	object-fit: contain;
-	max-width: none;
-	visibility: hidden;
+.site-header .wrapper a:hover span {
+
+    color: white;
+    background: #A87B90;
+    border-color: white;
 }
 
-#spacer {
-	height: calc(100vw * 0.7 + 1em);
+.site-header span {
+    color: #A87B90;
+    font-weight: bold;
+    background: white;
+    border: 5px double #A87B90;
+    margin: 0px 0px;
+    padding: 0 6px;
+    font-family: monospace;
 }
-
 
 img.insert {
 	width: 65%;

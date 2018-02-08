@@ -1,10 +1,3 @@
-<div id="cover-box">
-<img src="assets/images/cover.jpg" tabindex="0" id="cover">
-</div>
-<div id="cutoff">
-<img src="assets/images/cover.jpg" id="cover-shadow">
-</div>
-
 <img src="assets/images/p137.png" tabindex="1" class="insert">
 
 # February 2nd (Fri)
