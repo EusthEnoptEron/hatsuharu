@@ -150,7 +150,7 @@ And in such a place, I found my angel -- in front of the curtain that leads to t
 
 I'm so excited that I start stomping in place rapidly.
 
-Allthrough the past year, I have seen all kinds of Hatsuharu Rei. Be it official art, fanart, videos, fanbooks, cosplayers, and whatnot. In my head, there is a clear image of a perfect Hatsuharu Rei that is controlling my mind. Skin so pure as snow, soft hair that is a mix of white and blue, and eyes with a deep blue that resembles the starry sky. Hatsuharu Rei is the ideal female, pulling of a remarkable balance of 未来感, mysteriosity, and feminity.
+Allthrough the past year, I have seen all kinds of Hatsuharu Rei. Be it official art, fanart, videos, fanbooks, cosplayers, and whatnot. In my head, there is a clear image of a perfect Hatsuharu Rei that is controlling my mind. Skin so pure as snow, soft hair that is a mix of white and blue, and eyes with a deep blue that resembles the starry sky. Hatsuharu Rei is the ideal female, pulling of a remarkable balance of modernity, mysteriosity, and feminity.
 
 Countless pictures of my angel cross my mind and say the  words I always picture her saying.
 
