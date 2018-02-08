@@ -1,15 +1,18 @@
 (function() {
 	var currentBookmark = localStorage.getItem("bookmark");
-	Array.prototype.slice.call(document.querySelectorAll('.wrapper p')).forEach(function(el, i) {
-		el.addEventListener("dblclick", function(e) {
-			localStorage.setItem("bookmark", i);
-			setBookmark(el);
-		}, false);
+	Array.prototype.slice.call(document.querySelectorAll('.wrapper p'))
+		.filter(function(el) {
+			return !el.querySelector("img")
+		}).forEach(function(el, i) {
+			el.addEventListener("dblclick", function(e) {
+				localStorage.setItem("bookmark", i);
+				setBookmark(el);
+			}, false);
 
-		if(i == currentBookmark) {
-			setBookmark(el);
-			el.scrollIntoView(true);
-		}
+			if(i == currentBookmark) {
+				setBookmark(el);
+				el.scrollIntoView(true);
+			}
 	});
 
 
