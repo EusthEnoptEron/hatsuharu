@@ -53,6 +53,10 @@ body {
 	position: relative;
 }
 
+.site-title {
+	line-height: inherit;
+}
+
 .site-header .wrapper {
 	position: absolute;
 	bottom: 1em;
@@ -72,15 +76,29 @@ body {
     border-color: white;
 }
 
+
 .site-header span {
     color: #A87B90;
     font-weight: bold;
     background: white;
+    	
     border: 5px double #A87B90;
-    margin: 0px 0px;
+    margin: 0px;
     padding: 0 6px;
     font-family: monospace;
 }
+
+@media (max-width: 500px) {
+	.site-title {
+		line-height: 0.7em;
+	}
+	.site-header span {
+		padding: 0 2px;
+    	border: 3px double #A87B90;
+    	font-size: 0.6em;
+	}
+}
+
 
 img.insert {
 	width: 65%;
