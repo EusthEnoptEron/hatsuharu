@@ -154,7 +154,7 @@ Allthrough the past year, I have seen all kinds of Hatsuharu Rei. Be it official
 
 Countless pictures of my angel cross my mind and say the  words I always picture her saying.
 
-*"Nice to meet you, Atsushi."*
+*"Nice to meet you, Atsushi!"*
 
 Oh my god... this is... this is just...!
 
@@ -252,4 +252,106 @@ They charge you 3800 yen a week for renting a Bulk Girlfriend. It's a steep pric
 
 You can rent any of the Bulk Girlfriends only once. They say that it's to give the love simulation some extra realism. That's also why you cannot buy them.
 
-Right: Hatsuharu Rei and I can only spend a single week together.
+Sadly, this means that Hatsuharu Rei and I only have a single week together.
+
+After gulping down, I open the lid by the right ear of the head-mounted computer and insert the chip. I then proceed to connecting the device to the Wi-Fi by pressing the WPS button. I finally put on the HMC and adjust the mic.
+
+Switch on.
+
+The next moment, my dirty room disappears from my view.
+
+A light blue fills my view, on which a download progress bar is being displayed.
+
+After a short while, a 2D sprite of a smiling Hatsuharu Rei appears on the screen and asks, "Please answer a few questions!"
+
+What follows is a long series of questions regarding my name, my age, my height, my weight, my blood type, my place of birth, my occupation, my yearly income, my hobbies, my favorite color, my number of girlfriends, my most enjoyable moment in life, my preferences in girls, and so forth. The number of questions exceeds 200.
+
+I answer each and every of them by talking through my mic -- Bulk Girlfriend is operated through voice input. The software *does* support conventional keyboard input, but the speech recognition is rock solid and free of false positives.
+
+After long, I finish answering the last question.
+
+"Now, please take off the computer and point the camera that is located in the center of the headset at yourself."
+
+I take off the HMC as I'm told and fix my hair in front of the next mirror. This recording is very important. Bulk Girlfriends, too, have their own preferences, and now is the moment when she decides whether or not I'm to her liking.
+
+Hatsuharu Rei continues walking me through the setup. "Smile," "Look sad," "Look happy," "Look angry," "Pretend the camera was me."
+
+Following her instructions, I screw my face to all kinds of expressions. Slowly but surely, I'm starting to get anxious that she might dislike my appearance. After all, there is no way that a loner like me can be remotely cool.
+
+However, I can't let these qualms show. I don't want to get any minus points. While trying to keep a blank mind, I continue to change my expression as told.
+
+"Smile one last time."
+
+At last, the facial setup comes to an end, which also concludes the initial setup process.
+
+*Bulk Girlfriend, Hatsuharu Rei* is ready to boot.
+
+"Uuuh...!" I mutter, trembling with excitement. "At last I get to meet her...!"
+
+I put on the head-mounted computer once again and enter the world of Hatsuharu Rei.
+
+
+
+Dazzled by the light coming from the visor, I close my eyes.
+
+I'm suddenly encompassed by highly realistic city noise that is being played through the built-in headphones. "Yeah, that guy kicked ass!" - "Sorry to keep you waiting, honey!" - "Did you see that shopgirl? I think I'm in love." - "Hey cutie, have some time? Wanna go grab a bite somewhere?" - "Awwww!" - "Actually, that anime's about" - "Which bar should we go?"
+
+I find myself in the middle of a city as I open my eyes. The stereoscopic imagery is indistinguishable from the real thing.
+
+My brain is overwhelmed by the flood of information caused by the abrupt change of environment. It is only now that I notice that I have been holding my breath. After taking a deep breath of air, my heart starts to pound faster with excitement.
+
+"....phew..."
+
+I wonder if this is what it feels like if you could teleport into the city?
+
+Having finally gotten a grip on myself, I look around. Some people seem to be in a hurry, others are absent-mindedly toying with their smartphones. Behind me I discover an art object of an owl that is likely to serve as a meeting point.
+
+I try recalling the setting that was given to me. I'm one year older than Hatsuharu Rei and a second-year student in a different high school from her. I spotted her on my way to school and begged a female friend of mine who is also friends with her to set us up.
+
+Today, we Hatsuharu Rei and I are going to town together.
+
+I see. As someone who has no friends, let alone female friends, this could never happen in real life!
+
+I almost fall into a depression in face of the unforgiving reality, but I manage to regain my composure. Let's get things straight. The virtual time is 10:30am. We agreed to meet at 11:00am, so there's still half an hour left.
+
+Does this mean that I have to wait here for about half an hour? Well, surely I would come this early for a real date with her, but is there really a need to be that real?
+
+However, my concerns are cleared away as I look ahead: Blue and white twin tails I have seen countless times in magazines and on the web, swaying gently in the wind. Big eyes, anxiously searching for someone.
+
+*A-Are you kidding me?*
+
+Because the scenery is very close to reality and she isn't real, I thought that she would stand out. However, for some reason I can't explain, she does not. The developers must have fine-tuned everything to just work.
+
+That being said -- while this may sound contradicting -- she hasn't blended into the scenery. She is clearly special. She has been designed to be the main character of this world.
+
+I once had the chance to lay my eye on a famous actress; she was so beautiful I couldn't believe we were of the same species. So much so, that I was convicted that God is discriminating us. This, however, is even a greater shock. Of course, there is no way that she wouldn't shine in a world that was made for her.
+
+My skin tickles as if under electricity, emcompassed by her overwhelming aura. My lungs feel oppressed, I can't breathe well.
+
+I'm about to go on a date with her...?
+
+How am I to survive this...?!
+
+That said, I can't just keep standing here like a stick or else I'll fail this love simulation right from the get-go.
+
+Gulping down my anxiety and excitement, I walk around the owl statue where she's waiting at and greet her.
+
+"Urm, nice to meet you," I manage to say normally.
+
+Her eyes widen as she looks at me. She's so cute!
+
+"...? Ah, could it be that you're Atsushi...?"
+
+Seeing me nod, Hatsuharu Rei flashes a dazzling smile.
+
+
+"Nice to meet you, Atsushi!"
+
+
+This line!
+
+I was waiting for this very line!
+
+This very line that I've seen countless times on Nico Nico Douga!
+
+"F-FUUUUUUUUUCK YEEEEEEEEEEEAAAAAH!!!"
