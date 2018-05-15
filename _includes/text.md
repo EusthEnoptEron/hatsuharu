@@ -8,7 +8,7 @@ But still...!
 
 "Ugh...!"
 
-Not in my wildest dreams would I have thought that I would not even find someone to talk to. Thanks to that, I have become an expect in pretending to sleep. I could probably blindly tell what season it is just by the temparature of my desk.
+Not in my wildest dreams would I have thought that I would not even find someone to talk to. Thanks to that, I have become an expert in pretending to sleep. I could probably blindly tell what season it is just by the temparature of my desk.
 
 Oh, look how cool my desk is. It must be February.
 
