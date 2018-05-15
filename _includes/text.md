@@ -354,4 +354,78 @@ I was waiting for this very line!
 
 This very line that I've seen countless times on Nico Nico Douga!
 
-"F-FUUUUUUUUUCK YEEEEEEEEEEEAAAAAH!!!"
+"F-FUUUUUUUUUCK YEEEEEEEEEEEAAAAAH!!!" I shout out, unable to contain my excitement any longer.
+
+Forget it! I'm not gonna stay calm when I finally get to hear that famous line, with my name tagged to it!! YAAAAAAAAY!!!
+
+"Uhm... huh? W-What's up with that reaction...?" Rei Hatsuharu stutters in a frightened manner.
+
+"Oh." Dammit.
+
+No wonder she's frightened -- I may know everything about her, but that's not the case the other way around. I would be just as frightened if a stranger let out a thrilled shout upon seeing me.
+
+Quick! I have to make up for it...!
+
+"Cough!"
+
+I straighten my face as I clear my throat. The HMC is capable of reading my expression, so she knows that I'm making a straight face.
+
+"Nevermind -- just a little seizure. I have an illness, you see."
+
+"Y-You do...? My condolences."
+
+Let's change the topic.
+
+"Anyway. You're thirty minutes early, Hatsuharu."
+
+"So are you, Atsushi. I was surprised to find you here already!" she says and suddenly flashes an embarassed smile. "Ah, I'm sorry. Yoko told me to call your name, but now that I think about it, that may have been inappropriate..."
+
+Yoko is our common acqaintance. She is purely imaginary, of course; I do not have such a friend in real life. ... Is there a problem with that?!
+
+"No, it's completely fine! Just call me Atsushi!"
+
+"Are you sure? So I didn't act off or anything?"
+
+"More like, I'd love you to call me by my first name."
+
+"Oh," she cheerfully laughs. "Then Atushi it is."
+
+"Ah..." This smile! I've seen it a thousand times! It's that super cute smile that made her appear everywhere!
+
+WOOOAAAAH!! SHE'S SUPER CUTE MAN!!!
+
+I try to calm my rampaging emotions -- if I were to show my excitement now, I'd commit the same mistake as before. There is no room for any more of these.
+
+Just barely I manage to keep a straight face.
+
+"Why is your mouth twitching?"
+
+Barely not, I guess.
+
+"Um... how should I call you, Hatsuharu?"
+
+"Oh, call me whatever you like!"
+
+"I see... how about Rei-chan?"<!-- TODO -->
+
+"Um yeah, no."
+
+Sigh.
+
+"Just kidding, just kidding! You can call me that if you want!" she laughs as she points at her rounded cheeks.
+
+I'm in love with her playful style. It fits her character perfectly.
+
+"..."
+
+However, I did catch on to where she was coming from.
+
+"How about Haruchii?" I suggest.
+
+"Hm?"
+
+"You don't like being called Rei-chan, do you? Then how about Haruchii?"
+
+She keeps silent, still smiling.
+
+"Um... should I take that as a no?"
