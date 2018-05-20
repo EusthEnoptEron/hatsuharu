@@ -429,3 +429,48 @@ However, I did catch on to where she was coming from.
 She keeps silent, still smiling.
 
 "Um... should I take that as a no?"
+
+"...No, that's not it. Um... did you think I took offense?"
+
+"Um, yes," I answer, upon which her eyes rounden, fixed upon me.
+
+*What is it...?*
+
+"Actually, I don't mind being called Rei-chan! Really! It's just that I'm not used to it, so I was a little caught off-guard for a moment."
+
+"I see."
+
+"By the way, people call me Haruchii a lot, so I'm quite used to it," she says, slightly averting her gaze downward.
+
+"Oh, really? Then let's go with that!"
+
+Rei Hatsuharu gives me an affirmative nod with a bright smile on her face -- her representative smile. She's cute. So cute.
+
+As my face starts to melt, she gives me a light jab on the shoulder with her fist, still smiling.
+
+"Huh? What was that for?"
+
+"Never mind!" she answers in a strangely happy manner. "I was just suprised at how well you understand me!"
+
+Er... and how exactly does that result in a punch?
+
+I gaze closely at her, trying to find out why she did that, and end up sustaining three more jabs by a slightly blushed Rei Hatsuharu.
+
+What? My light novel infected brain tells me that she's embarrassed, but there's no way a girl would be attracted to me so easily.
+
+Nonetheless, that smile remained on Rei Hatsuharu's face for quite a while.
+
+
+
+After that, we went to the movies and watched a fantasy blockbuster that she had been aching to see. Unlike a dating sim, I actually had to pay using e-money and watched the actual thing together with her. Her expression changed with every scene; she laughed, she got angry, she grieved. In fact, to me she was more interesting than the movie.
+
+We then went to a café nearby and talked for a long time. For some reason, I had no trouble keepin the conersation alive despite my hardships when it came to talking with my classmates. She responded with cheerful laughter when I was talking, and I responded with cheerful laughter when she was talking.
+
+After a while, I started feeling the eyes of the employees on my back, so we headed over to a game arcade. Earlier, she had told me that she was into rhythm games. She also bragged about being unbeatable in one of them, so I paid for it and we played it together -- to be honest, she was real bad. Worse than me, even though it was my first time playing it. Of course, I teased her about it, but then she got all sulky, so I ended up cheering her up as well as I could.
+
+After playing some more games -- crane games, games using coins, and so forth -- I mustered all my courage and suggested we take a photo in one of those photo booths, which she happily agreed with. However, even though she was so expressive all the time, her smile froze in front of a camera. Well, I was the same to be honest, and so our photos all ended up looking roughly the same, which in turn caused us to laugh at each other.
+
+The virtual time was 18:00 -- time to go home for high school students like us. We headed back to the station and, after planning our next date, broke up.
+
+
+<!-- 163 -->
